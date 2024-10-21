@@ -1,0 +1,4 @@
+/Users/phineaskelly/Desktop/untitled/cmake-build-debug/CMakeFiles/untitled.dir
+/Users/phineaskelly/Desktop/untitled/cmake-build-debug/CMakeFiles/untitled_tests.dir
+/Users/phineaskelly/Desktop/untitled/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/phineaskelly/Desktop/untitled/cmake-build-debug/CMakeFiles/rebuild_cache.dir
